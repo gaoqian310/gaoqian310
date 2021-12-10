@@ -5,11 +5,11 @@
 
 Here are some ideas to get you started:-->
 
-🌱 I’m currently learning Data Science and Python Programming
+🌱 I’m currently learning Data Science with Python Programming, SQL, Power BI and Tableau
 
 🤔 I’m looking for oppotunities in data science
 
 📫 How to reach me: gaoqian310@gmail.com
 
-⚡ Fun fact: Photographer, Gamer, Power BI, Tableau
+⚡ Fun fact: Photographer, Gamer
 
