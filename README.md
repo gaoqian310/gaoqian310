@@ -1,4 +1,4 @@
-### Hi there 👋 This is Qian[Chien] Gao
+### Hi there 👋 Welcome to my page
 
 <!--
 **gaoqian310/gaoqian310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
