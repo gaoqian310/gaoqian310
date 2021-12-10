@@ -11,5 +11,5 @@ Here are some ideas to get you started:-->
 
 📫 How to reach me: gaoqian310@gmail.com
 
-⚡ Fun fact: Photographer, Gamer
+⚡ Fun fact: Photographer, Gamer, Power BI, Tableau
 
