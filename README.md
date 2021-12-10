@@ -9,7 +9,7 @@ Here are some ideas to get you started:-->
 
 🤔 I’m looking for oppotunities as Data Engineer
 
-📫 How to reach me: gaoqian310@gmail.com
+📫 How to reach me: https://www.linkedin.com/in/gaoqian310/
 
 ⚡ Fun fact: Photographer, Gamer
 
