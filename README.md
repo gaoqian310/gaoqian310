@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started:-->
 
-🌱 I’m currently learning Data Science with Python Programming, SQL, Power BI and Tableau
+🌱 I’m currently learning Data Science with Python, SQL, IBM SPSS, IBM Cognos, Power BI and Tableau
 
 🤔 I’m looking for oppotunities as Data Engineer
 
