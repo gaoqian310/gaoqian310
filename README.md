@@ -10,5 +10,5 @@
 
 ⚡ Fun fact: Photographer, Gamer
 
-#### What I do
+#### What I do:
 ![what I do](https://github.com/gaoqian310/gaoqian310/blob/c4e64a393dc186f3990f8db909dac2ba679037fe/what_I%20_do.svg)
