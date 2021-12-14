@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning Data Science with Python, SQL, IBM SPSS, IBM Cognos, Power BI and Tableau
 
-🤔 I’m looking for oppotunities as Data Engineer
+🤔 I’m looking for oppotunities in Data Analytics
 
 [📫](mailto:gaoqian310@gmail.com) How to reach me: [LinkedIn/gaoqian310](https://www.linkedin.com/in/gaoqian310/)
 
