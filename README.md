@@ -1,10 +1,6 @@
 ## 👋  Welcome to my page 
 ###### 💝Can you find a secret spot in this section?
 
-<!--
-**gaoqian310/gaoqian310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:-->
 
 🌱 I’m currently learning Data Science with Python, SQL, IBM SPSS, IBM Cognos, Power BI and Tableau
 
@@ -14,3 +10,4 @@ Here are some ideas to get you started:-->
 
 ⚡ Fun fact: Photographer, Gamer
 
+[what I do](images/what_I_do.svg)
