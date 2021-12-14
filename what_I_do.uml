@@ -1,0 +1,50 @@
+@startuml
+!theme spacelab
+skinparam actorStyle awesome
+
+
+database database
+cloud Azure
+
+
+:Qian Gao: -left-> (Data Analytics)
+:Qian Gao: -right-> database
+
+
+
+(Data Analytics) -left-> (Data Scientist)
+(Data Analytics) -up-> (Data Analyst)
+(Data Analytics) -down-> (Data Engineer)
+
+(Data Analyst) -up-> (Power BI)
+(Data Analyst) -up-> (Tableau)
+(Data Analyst) -up-> (IBM SPSS)
+(Data Analyst) -up-> (IBM Cognos)
+
+
+(Data Scientist) -left-> (Machine Learning)
+(Data Scientist) -up-> (Python)
+(Data Scientist) --> (Deep Learning)
+(Data Scientist) --> (Artificial Intelligence)
+
+(Data Engineer) -down-> (Data Collection)
+(Data Engineer) -down-> (Data Pipeline)
+(Data Engineer) -down-> (Data Modelling)
+
+
+database --> (SQL)
+database --> Azure
+
+database database #gray
+usecase (Data Analytics) #gray
+usecase (Data Analyst) #darkgray
+usecase (Data Engineer) #darkgray
+usecase (Data Scientist) #darkgray
+
+
+
+skinparam cloud {
+BackgroundColor White
+BorderColor Gray
+}
+@enduml
