@@ -10,4 +10,4 @@
 
 ⚡ Fun fact: Photographer, Gamer
 
-[what I do](http://gaoqian310.github.io/images/what_I_do.svg)
+[what I do](what_I _do.svg)
