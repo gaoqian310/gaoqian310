@@ -11,7 +11,6 @@ cloud Azure
 :Qian Gao: -right-> database
 
 
-
 (Data Analytics) -left-> (Data Scientist)
 (Data Analytics) -up-> (Data Analyst)
 (Data Analytics) -down-> (Data Engineer)
